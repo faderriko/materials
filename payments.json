@@ -4,8 +4,8 @@
     {
       "planName": "Free Account",
       "dailySurvey": 1,
-      "monthlyIncome": 50,
-      "dailyIncome": 50,
+      "monthlyIncome": 0,
+      "dailyIncome": 0,
       "minimumWithdrawal": 4500,
       "earningPerSurvey": "40 - 50",
       "price": "0"
