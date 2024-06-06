@@ -3,7 +3,7 @@
   "surveys": [
     {
       "surveyId": "1",
-      "surveyCategory": "Welcome to Inuka",
+      "surveyCategory": "Welcome to Bloom",
       "surveyPaid": false,
       "surveyAmount": 70,
       "surveyQuestions": [
@@ -27,7 +27,7 @@
           ]
         },
         {
-          "surveyQuestion": "Inuka allows you to earn money from every survey. You will receive your payment when you submit your survey.",
+          "surveyQuestion": "Bloom allows you to earn money from every survey. You will receive your payment when you submit your survey.",
           "surveyType": 1,
           "surveyAnswers": [
             "Looks Good",
