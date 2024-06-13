@@ -1681,6 +1681,145 @@
             ]
         },
         {
+            "surveyId": "9ULKHSYZ42",
+            "surveyCategory": "Robotics",
+            "surveyPaid": false,
+            "surveyAmount": 48,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How familiar are you with robotics?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Not at all",
+                        "Somewhat familiar",
+                        "Very familiar",
+                        "Expert"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which types of robots are you most interested in?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Industrial robots",
+                        "Service robots",
+                        "Medical robots",
+                        "Educational robots"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What do you think is the most significant advancement in robotics in the last decade?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate your satisfaction with the current state of robotics technology on a scale of 1-5.",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How likely are you to recommend a career in robotics to a friend or colleague?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your primary source of information about robotics?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "News articles",
+                        "Academic journals",
+                        "Social media",
+                        "Conferences"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which industries do you believe will benefit the most from robotics?",
+                    "surveyType": 2,
+                    "surveyAnswers": [
+                        "Manufacturing",
+                        "Healthcare",
+                        "Agriculture",
+                        "Logistics",
+                        "Retail"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What are your concerns about the future of robotics?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate the potential of robotics to improve quality of life on a scale of 1-5.",
+                    "surveyType": 2,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What are your concerns about the future of robotics?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "How likely are you to invest in robotics technology if given the opportunity?",
+                    "surveyType": 2,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What are the main challenges facing the robotics industry?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Cost",
+                        "Technology limitations",
+                        "Public perception",
+                        "Regulation"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Rate the importance of ethical considerations in robotics development on a scale of 1-5.",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                }
+            ]
+        },
+        {
             "surveyId": "cvdfr45",
             "surveyCategory": "Hotel Industry",
             "surveyPaid": true,
