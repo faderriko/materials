@@ -3,7 +3,7 @@
     "surveys": [
         {
             "surveyId": "1",
-            "surveyCategory": "Welcome to Bloom",
+            "surveyCategory": "Welcome to Appex",
             "surveyPaid": false,
             "surveyAmount": 70,
             "surveyQuestions": [
@@ -27,7 +27,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Bloom allows you to earn money from every survey. You will receive your payment when you submit your survey.",
+                    "surveyQuestion": "Appex allows you to earn money from every survey. You will receive your payment when you submit your survey.",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Looks Good",
@@ -586,7 +586,7 @@
         },
         {
             "surveyId": "T88EP046T3",
-            "surveyCategory": "Social Media",
+            "surveyCategory": "Facebook",
             "surveyPaid": false,
             "surveyAmount": 44,
             "surveyQuestions": [
