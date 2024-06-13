@@ -15,6 +15,7 @@
                         "Twitter",
                         "Instagram",
                         "Facebook",
+                        "Our Website",
                         "Friend"
                     ]
                 },
@@ -246,7 +247,7 @@
                 },
                 {
                     "surveyQuestion": "How likely are you to recommend Naivas Supermarket to a friend or colleague?",
-                    "surveyType": 3,
+                    "surveyType": 1,
                     "surveyAnswers": [
                         "1",
                         "2",
