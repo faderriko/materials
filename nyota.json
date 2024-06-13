@@ -508,16 +508,15 @@
                 {
                     "surveyQuestion": "Do you have any additional comments or suggestions for improving Nakuru County?",
                     "surveyType": 2,
-                    "surveyAnswers": [
-                    ]
+                    "surveyAnswers": []
                 }
             ]
         },
         {
             "surveyId": "RTCU8QFH2U",
-            "surveyCategory": "Television Shows",
+            "surveyCategory": "Smart/Electronic TVs",
             "surveyPaid": true,
-            "surveyAmount": 50,
+            "surveyAmount": 53,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How many hours do you watch TV per day?",
@@ -674,10 +673,96 @@
             ]
         },
         {
+            "surveyId": "W48EP156T8",
+            "surveyCategory": "Safaricom Home Fibre",
+            "surveyPaid": true,
+            "surveyAmount": 88,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How did you hear about Safaricom Home Fibre?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "BRONZE 10mbps",
+                        "SILVER 20mbps",
+                        "GOLD 40mbps",
+                        "DIAMOND 100mbps"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Rate your overall satisfaction with Safaricom Home Fibre on a scale of 1-5",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How likely are you to recommend Safaricom Home Fibre to a friend or colleague?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How long have you been using Safaricom Home Fibre?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Less than 6 months",
+                        "6-12 months",
+                        "1-2 years",
+                        "More than 2 years"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What issues have you encountered while using Safaricom Home Fibre?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Slow internet speed",
+                        "Connection drops",
+                        "Billing issues",
+                        "Customer service"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What improvements would you like to see in Safaricom Home Fibre?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "How often do you experience internet outages?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Never",
+                        "Rarely",
+                        "Sometimes",
+                        "Often",
+                        "Always"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Any additional comments or suggestions?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                }
+            ]
+        },
+        {
             "surveyId": "OEAGIFC92H",
-            "surveyCategory": "Food",
+            "surveyCategory": "Coca Cola",
             "surveyPaid": false,
-            "surveyAmount": 45,
+            "surveyAmount": 47,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "Which of the following beverages do you enjoy? (Select all that apply)",
@@ -749,7 +834,7 @@
         },
         {
             "surveyId": "T472SNCM16",
-            "surveyCategory": "Home Buyer",
+            "surveyCategory": "Optiven",
             "surveyPaid": false,
             "surveyAmount": 44,
             "surveyQuestions": [
