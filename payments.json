@@ -15,7 +15,7 @@
       "dailySurvey": 5,
       "monthlyIncome": 8000,
       "dailyIncome": 250,
-      "minimumWithdrawal": 3500,
+      "minimumWithdrawal": 3000,
       "earningPerSurvey": "50 - 100",
       "price": "400"
     },
@@ -24,7 +24,7 @@
       "dailySurvey": 10,
       "monthlyIncome": 15000,
       "dailyIncome": 500,
-      "minimumWithdrawal": 3000,
+      "minimumWithdrawal": 2500,
       "earningPerSurvey": "50 - 100",
       "price": "800"
     },
@@ -33,7 +33,7 @@
       "dailySurvey": 20,
       "monthlyIncome": 30000,
       "dailyIncome": 1500,
-      "minimumWithdrawal": 2500,
+      "minimumWithdrawal": 2000,
       "earningPerSurvey": "50 - 100",
       "price": "1600"
     }
