@@ -67,12 +67,12 @@
         },
         {
             "surveyId": "DU6UAI7GDK",
-            "surveyCategory": "Hotels",
+            "surveyCategory": "KFC",
             "surveyPaid": true,
             "surveyAmount": 80,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How often do you visit Hotels?",
+                    "surveyQuestion": "How often do you visit KFC?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Daily",
@@ -83,7 +83,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What items do you usually order at Hotels?",
+                    "surveyQuestion": "What items do you usually order at KFC?",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "Chicken",
@@ -94,12 +94,12 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What do you like most about Hotels?",
+                    "surveyQuestion": "What do you like most about KFC?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate your overall satisfaction with Hotels on a scale of 1-5",
+                    "surveyQuestion": "Rate your overall satisfaction with KFC on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -110,7 +110,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How likely are you to recommend Hotels to a friend or family member?",
+                    "surveyQuestion": "How likely are you to recommend KFC to a friend or family member?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -126,7 +126,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How would you rate the speed of service at Hotels?",
+                    "surveyQuestion": "How would you rate the speed of service at KFC?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very Slow",
@@ -137,12 +137,12 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What improvements would you like to see at Hotels?",
+                    "surveyQuestion": "What improvements would you like to see at KFC?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate the cleanliness of the Hotels location you visited",
+                    "surveyQuestion": "Rate the cleanliness of the KFC location you visited",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -153,7 +153,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How do you usually place your order at Hotels?",
+                    "surveyQuestion": "How do you usually place your order at KFC?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "In-store",
@@ -163,7 +163,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What factors influence your decision to visit Hotels?",
+                    "surveyQuestion": "What factors influence your decision to visit KFC?",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "Convenience",
@@ -173,12 +173,12 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Please share any additional comments or feedback about your Hotels experience",
+                    "surveyQuestion": "Please share any additional comments or feedback about your KFC experience",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate the friendliness of the Hotels staff",
+                    "surveyQuestion": "Rate the friendliness of the KFC staff",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -189,7 +189,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How satisfied are you with the variety of menu items at Hotels?",
+                    "surveyQuestion": "How satisfied are you with the variety of menu items at KFC?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very Dissatisfied",
@@ -203,12 +203,12 @@
         },
         {
             "surveyId": "XU6LAI3GJT",
-            "surveyCategory": "Supermarket",
+            "surveyCategory": "Naivas",
             "surveyPaid": false,
             "surveyAmount": 40,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How often do you shop at Supermarket?",
+                    "surveyQuestion": "How often do you shop at Naivas Supermarket?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Daily",
@@ -219,7 +219,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What products do you usually purchase at Supermarket?",
+                    "surveyQuestion": "What products do you usually purchase at Naivas Supermarket?",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "Groceries",
@@ -229,12 +229,12 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What do you like most about Supermarket?",
+                    "surveyQuestion": "What do you like most about Naivas Supermarket?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate your overall satisfaction with Supermarket on a scale of 1-5",
+                    "surveyQuestion": "Rate your overall satisfaction with Naivas Supermarket on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -245,7 +245,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How likely are you to recommend Supermarket to a friend or colleague?",
+                    "surveyQuestion": "How likely are you to recommend Naivas Supermarket to a friend or colleague?",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "1",
@@ -261,7 +261,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How do you usually pay for your purchases at Supermarket?",
+                    "surveyQuestion": "How do you usually pay for your purchases at Naivas Supermarket?",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "Cash",
@@ -270,7 +270,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which of the following services have you used at Supermarket?",
+                    "surveyQuestion": "Which of the following services have you used at Naivas Supermarket?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Home delivery",
@@ -280,12 +280,12 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What improvements would you like to see at Supermarket?",
+                    "surveyQuestion": "What improvements would you like to see at Naivas Supermarket?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate the quality of customer service at Supermarket on a scale of 1-5",
+                    "surveyQuestion": "Rate the quality of customer service at Naivas Supermarket on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -296,7 +296,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How did you hear about Supermarket?",
+                    "surveyQuestion": "How did you hear about Naivas Supermarket?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Social media",
@@ -372,7 +372,7 @@
         },
         {
             "surveyId": "YU6LCI7GJR",
-            "surveyCategory": "Counties",
+            "surveyCategory": "Nakuru County",
             "surveyPaid": true,
             "surveyAmount": 61,
             "surveyQuestions": [
@@ -389,7 +389,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which of the following services do you use in your Conty?",
+                    "surveyQuestion": "Which of the following services do you use in Nakuru County?",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "Healthcare",
@@ -399,12 +399,12 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What do you think can be improved in Conty?",
+                    "surveyQuestion": "What do you think can be improved in Nakuru County?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate the quality of healthcare services in Conty on a scale of 1-5",
+                    "surveyQuestion": "Rate the quality of healthcare services in Nakuru County on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -415,7 +415,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How likely are you to recommend County as a place to live?",
+                    "surveyQuestion": "How likely are you to recommend Nakuru County as a place to live?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -431,7 +431,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How often do you visit recreational facilities in County?",
+                    "surveyQuestion": "How often do you visit recreational facilities in Nakuru County?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Daily",
@@ -442,7 +442,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What modes of transport do you use within County?",
+                    "surveyQuestion": "What modes of transport do you use within Nakuru County?",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "Bus",
@@ -453,12 +453,12 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite place in County?",
+                    "surveyQuestion": "What is your favorite place in Nakuru County?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate the cleanliness of public spaces in County on a scale of 1-5",
+                    "surveyQuestion": "Rate the cleanliness of public spaces in Nakuru County on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -469,7 +469,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How likely are you to participate in community events in County?",
+                    "surveyQuestion": "How likely are you to participate in community events in Nakuru County?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -485,7 +485,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How satisfied are you with the local government in County?",
+                    "surveyQuestion": "How satisfied are you with the local government in Nakuru County?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very Satisfied",
@@ -496,7 +496,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which of the following issues concern you the most in County?",
+                    "surveyQuestion": "Which of the following issues concern you the most in Nakuru County?",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "Crime",
@@ -506,7 +506,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you have any additional comments or suggestions for improving County?",
+                    "surveyQuestion": "Do you have any additional comments or suggestions for improving Nakuru County?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 }
